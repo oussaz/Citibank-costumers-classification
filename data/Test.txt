@@ -1,0 +1,6 @@
+Income  Limit  Rating  Cards Age  Education  Gender  Student  Married  Balance
+14.312   5380    367     1   60      17      Male     No      No       1420
+98.515   8780    633     5   80      11      Female   No      Yes      1130
+44.205   5641    414     2   32      12      Female   No      Yes       607
+26.427   7533    433     5   50      15      Male     Yes     Yes      1304
+30.550   5869    439     7   83       8      Female   No      No        867
