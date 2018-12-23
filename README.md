@@ -1,4 +1,4 @@
-# Project Title
+Citibank costumers classification
 
 This project aims at predicting the ethnicity of Citibank users using bank account informations. The classification techniques have been for this purpose :Support Vector Machine, K-Nearest Neighbors, Decision tree, LDA and QDA, Logistic discrimination, Naive Bayes and Ensemble methods such as Random Forest. The comparaison of performance these algorithms is based on confusion matrix.
 
